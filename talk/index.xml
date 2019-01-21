@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on EDUARDO GUAMÁN</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on EDUARDO GUAMÁN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ec</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción a R Markdown</title>
+      <link>/talk/2019-01-19-rmarkdown/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2019-01-19-rmarkdown/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; (arriba) para continuar con la lectura.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Las diapositivas fue creada usando &lt;strong&gt;R Markdown&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a R Markdown</title>
+      <link>/talk/2019-01-19-intrormarkdown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-01-19-intrormarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;descripcion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Descripción:&lt;/h2&gt;
+&lt;div id=&#34;vision-general&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Visión general&lt;/h3&gt;
+&lt;p&gt;R Markdown proporciona un marco de autoría para la ciencia de datos. Puedes usar un solo archivo R Markdown para ambos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;guardar y ejecutar código&lt;/li&gt;
+&lt;li&gt;generar informes de alta calidad que se pueden compartir con una audiencia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los documentos R Markdown son completamente reproducibles y admiten docenas de formatos de salida estáticos y dinámicos &lt;a href=&#34;/slides/RMarkdown-Introduction.html#1/&#34;&gt;(ver slides)&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;contacto&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contacto:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correo:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:guamandseduardo@gmail.com&#34; class=&#34;email&#34;&gt;guamandseduardo@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Twitter:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/guamandseduardo&#34;&gt;guamandseduardo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

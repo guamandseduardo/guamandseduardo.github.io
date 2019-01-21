@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asesoría Estadística on EDUARDO GUAMÁN</title>
+    <link>/tags/asesor%C3%ADa-estad%C3%ADstica/</link>
+    <description>Recent content in Asesoría Estadística on EDUARDO GUAMÁN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ec</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/asesor%C3%ADa-estad%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Servicio de Asesoría Estadística</title>
+      <link>/asesoria/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/asesoria/</guid>
+      <description>Asesoría en:Análisis descriptivo y exploratorio:Tablas de frecuenciasGráficosTablas de contingenciaAnálisis estadístico inferencial:Intervalos de confianzaPrueba de hipótesis para una, dos y más de dos muestrasAnálisis Multivariante:Puesto que hay varias variables medidas para cada individuo ú objeto estudiado, es necesario acudir a las técnicas multivariantes:análisis de regresión lineal múltiple,análisis de clúster o agrupamiento,análisis de componentes principales,análisis de correspondencias múltiples,análisis discriminante,etc.</description>
+    </item>
+    
+  </channel>
+</rss>

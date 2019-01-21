@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EDUARDO GUAMÁN</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on EDUARDO GUAMÁN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ec</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los bucles de la familia apply</title>
+      <link>/post/familia-apply/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/familia-apply/</guid>
+      <description>applyLa función apply() pertenece al paquete base R y aplica una función a una matriz, lista o vector que se le pase como parámetro.
+La documentación (ejecuta ?apply) de la base R dice que se llama de la siguiente manera: apply(X, MARGIN, FUN, …)
+donde:
+Argumento 1: matriz, lista o vectorArgumento 2: 1 para operar sobre las columnas y 2 sobre las filas, c(1, 2) indica filas y columnasArgumento 3: la función a aplicar según indique el argumento 2…: argumentos opcionales a FUN.</description>
+    </item>
+    
+  </channel>
+</rss>

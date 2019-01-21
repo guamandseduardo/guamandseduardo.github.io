@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDUARDO GUAMÁN on EDUARDO GUAMÁN</title>
+    <link>/</link>
+    <description>Recent content in EDUARDO GUAMÁN on EDUARDO GUAMÁN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ec</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Servicio de Asesoría Estadística</title>
+      <link>/asesoria/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/asesoria/</guid>
+      <description>
+
+
+&lt;div id=&#34;asesoria-en&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Asesoría en:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Análisis descriptivo y exploratorio:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Tablas de frecuencias&lt;/li&gt;
+&lt;li&gt;Gráficos&lt;/li&gt;
+&lt;li&gt;Tablas de contingencia&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Análisis estadístico inferencial:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervalos de confianza&lt;/li&gt;
+&lt;li&gt;Prueba de hipótesis para una, dos y más de dos muestras&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Análisis Multivariante:&lt;/strong&gt;
+Puesto que hay varias variables medidas para cada individuo ú objeto estudiado, es necesario acudir a las técnicas multivariantes:
+&lt;ul&gt;
+&lt;li&gt;análisis de regresión lineal múltiple,&lt;/li&gt;
+&lt;li&gt;análisis de clúster o agrupamiento,&lt;/li&gt;
+&lt;li&gt;análisis de componentes principales,&lt;/li&gt;
+&lt;li&gt;análisis de correspondencias múltiples,&lt;/li&gt;
+&lt;li&gt;análisis discriminante,&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Encuestas:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Diseño y planteamiento de encuestas&lt;/li&gt;
+&lt;li&gt;Análisis de datos generados por las encuestas&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diseño Muestral:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Muestreo Probabilístico&lt;/strong&gt;: Muestreo aleatorio simple, muestreo sistemático, muestreo estratificado, muestreo por conglomerados.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Muestreo No Probabilístico&lt;/strong&gt;: Muestreo por cuotas, muestreo de bola de nieve, muestreo causal o incidental.&lt;/li&gt;
+&lt;li&gt;Determinar el tamaño muestral.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diseño de Experimentos:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Identificación y definición de variables.&lt;/li&gt;
+&lt;li&gt;Planeación del experimento.&lt;/li&gt;
+&lt;li&gt;Análisis del diseño experimental.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Series de Tiempo:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelamiento y Pronósticos.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Análisis de Supervivencia:&lt;/strong&gt;
+Técnicas que permiten estudiar la variable “tiempo hasta que ocurre un evento” y su dependencia de otras posibles variables explicatorias. Estos métodos generalmente se usan para estudios de mortalidad, o simplemente unidades que presentan un cambio de estado. Se realizan análisis descriptivos, análisis con el método de Kaplan-Meyer, modelos logísticos y modelos de cox.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Métodos No Paramétricos:&lt;/strong&gt;
+Los métodos no paramétricos son útiles cuando no se cumple el supuesto de normalidad y el tamaño de la muestra es pequeño. Las principales pruebas no paramétricas son las siguientes:
+&lt;ul&gt;
+&lt;li&gt;Prueba χ² de Pearson&lt;/li&gt;
+&lt;li&gt;Prueba binomial&lt;/li&gt;
+&lt;li&gt;Prueba de Anderson-Darling&lt;/li&gt;
+&lt;li&gt;Prueba de Cochran&lt;/li&gt;
+&lt;li&gt;Prueba de Cohen kappa&lt;/li&gt;
+&lt;li&gt;Prueba de Fisher&lt;/li&gt;
+&lt;li&gt;Prueba de Friedman&lt;/li&gt;
+&lt;li&gt;Prueba de Kendall&lt;/li&gt;
+&lt;li&gt;Prueba de Kolmogórov-Smirnov&lt;/li&gt;
+&lt;li&gt;Prueba de Kruskal-Wallis&lt;/li&gt;
+&lt;li&gt;Prueba de Kuiper&lt;/li&gt;
+&lt;li&gt;Prueba de Mann-Whitney o prueba de Wilcoxon&lt;/li&gt;
+&lt;li&gt;Prueba de McNemar&lt;/li&gt;
+&lt;li&gt;Prueba de la mediana&lt;/li&gt;
+&lt;li&gt;Prueba de Siegel-Tukey&lt;/li&gt;
+&lt;li&gt;Prueba de los signos&lt;/li&gt;
+&lt;li&gt;Coeficiente de correlación de Spearman&lt;/li&gt;
+&lt;li&gt;Tablas de contingencia&lt;/li&gt;
+&lt;li&gt;Prueba de Wald-Wolfowitz&lt;/li&gt;
+&lt;li&gt;Prueba de los rangos con signo de Wilcoxon&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;esto-y-mucho-mas-solo-contactame-me-encuentro-en-la-av.-general-enriquez-y-colombia-sangolqui-ec&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Esto y mucho más solo contáctame, me encuentro en la Av. General Enríquez y Colombia (Sangolquí-Ec)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;asesoro&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Asesoro:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tesis, tesinas y otros trabajos de investigación&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publicaciones en revistas de investigación&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grupos de investigación e innovación&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soporte puntual en proyectos que requieran la colaboración de un estadístico profesional&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;contacto&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contacto:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correo:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:guamandseduardo@gmail.com&#34; class=&#34;email&#34;&gt;guamandseduardo@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Facebook:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/guamandseduardo&#34;&gt;fb.com/guamandseduardo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a R Markdown</title>
+      <link>/talk/2019-01-19-rmarkdown/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2019-01-19-rmarkdown/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; (arriba) para continuar con la lectura.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Las diapositivas fue creada usando &lt;strong&gt;R Markdown&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Los bucles de la familia apply</title>
+      <link>/post/familia-apply/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/familia-apply/</guid>
+      <description>
+
+
+&lt;div id=&#34;apply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;apply&lt;/h1&gt;
+&lt;p&gt;La función &lt;strong&gt;apply()&lt;/strong&gt; pertenece al paquete base R y aplica una función a una matriz, lista o vector que se le pase como parámetro.&lt;/p&gt;
+&lt;p&gt;La documentación (ejecuta &lt;em&gt;?apply&lt;/em&gt;) de la base R dice que se llama de la siguiente manera: &lt;strong&gt;&lt;em&gt;apply(X, MARGIN, FUN, …)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;donde:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Argumento 1: matriz, lista o vector&lt;/li&gt;
+&lt;li&gt;Argumento 2: 1 para operar sobre las columnas y 2 sobre las filas, c(1, 2) indica filas y columnas&lt;/li&gt;
+&lt;li&gt;Argumento 3: la función a aplicar según indique el argumento 2&lt;/li&gt;
+&lt;li&gt;…: argumentos opcionales a &lt;strong&gt;&lt;em&gt;FUN&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por ejemplo, si queremos saber la media de cada fila de una matriz de 100 filas y 10 columnas:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;myMat &amp;lt;- matrix(sample(1:100, size = 1000, replace = TRUE), ncol = 10)
+apply(X = myMat, MARGIN = 1, FUN = mean)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   [1] 40.8 43.9 58.4 46.0 46.1 60.6 56.7 55.4 46.9 73.2 43.3 35.3 40.3 44.9
+##  [15] 54.0 55.8 30.7 57.7 64.2 61.0 52.0 35.0 65.1 54.4 41.2 30.0 38.6 33.8
+##  [29] 50.9 49.0 65.5 59.9 40.2 59.4 57.0 52.2 52.9 45.8 45.0 61.6 52.1 57.3
+##  [43] 57.2 63.3 58.0 63.2 64.5 44.1 60.0 44.9 51.7 53.0 56.0 55.6 48.3 42.1
+##  [57] 47.3 37.8 56.4 50.5 50.3 57.9 33.8 61.7 45.0 49.9 44.7 34.8 49.2 66.0
+##  [71] 65.4 62.3 39.7 64.6 41.3 44.8 54.1 49.5 37.0 62.6 70.4 56.0 49.1 45.4
+##  [85] 65.6 50.6 40.8 46.6 47.5 57.5 52.7 47.9 53.8 48.0 64.4 53.2 30.9 32.8
+##  [99] 38.7 38.9&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Si queremos saber la media de cada columna, la expresión anterior se convierte en:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;apply(X = myMat, MARGIN = 2, FUN = mean)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] 48.86 53.92 47.65 50.39 49.33 45.90 49.49 53.11 54.44 54.25&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;lapply&lt;/h1&gt;
+&lt;p&gt;Es usada cuando se desea aplicar una función determinada a cada elemento de una lista y obtener una lista como resultado. Al ejecutar &lt;em&gt;?lapply&lt;/em&gt;, la sintaxis se parece a la función &lt;strong&gt;apply()&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La diferencia es que:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Puede ser usado para otros objetos como dataframes, listas o vectores; y&lt;/li&gt;
+&lt;li&gt;Devuelve una lista de la misma longitud que &lt;strong&gt;&lt;em&gt;X&lt;/em&gt;&lt;/strong&gt;, y cada elemento resulta de la aplicación &lt;strong&gt;&lt;em&gt;FUN&lt;/em&gt;&lt;/strong&gt; al elemento &lt;strong&gt;&lt;em&gt;X&lt;/em&gt;&lt;/strong&gt; correspondiente.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para ver cómo funciona esto, tenenemos el siguiente ejemplo:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;set.seed(12345)
+(myList &amp;lt;- list(
+  a = sample(1:100, size = 10),
+  b = sample(1:100, size = 10),
+  c = sample(1:100, size = 10),
+  d = sample(1:100, size = 10),
+  e = sample(1:100, size = 10)
+  ))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## $a
+##  [1] 73 87 75 86 44 16 31 48 67 91
+## 
+## $b
+##  [1]  4 16 73  1 38 44 37 96 17 87
+## 
+## $c
+##  [1] 46 33 95 69 62 38 66 51 21 45
+## 
+## $d
+##  [1] 80  1 19 67 36 35 82 85 57 13
+## 
+## $e
+##  [1] 79 43 91 76 25 31  6  5 94 57&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Para obtener el promedio de cada elemento de la &lt;strong&gt;&lt;em&gt;list&lt;/em&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;lapply(myList, FUN = mean)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## $a
+## [1] 61.8
+## 
+## $b
+## [1] 41.3
+## 
+## $c
+## [1] 52.6
+## 
+## $d
+## [1] 47.5
+## 
+## $e
+## [1] 50.7&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;sapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;sapply&lt;/h1&gt;
+&lt;p&gt;La función &lt;strong&gt;sapply()&lt;/strong&gt; es una versión modificada de la función &lt;strong&gt;lapply()&lt;/strong&gt; que realiza la misma operación pero intenta simplificar la salida a la estructura de datos más elemental siempre que sea posible.&lt;/p&gt;
+&lt;p&gt;Por ejemplo digamos que se desea repetir la operación de calcular la media del ejemplo anterior:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sapply(myList, FUN = mean)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    a    b    c    d    e 
+## 61.8 41.3 52.6 47.5 50.7&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Extraer el elemento “n” (en este caso el primer elemento) de cada elemento de una &lt;strong&gt;&lt;em&gt;list&lt;/em&gt;&lt;/strong&gt;. La función que se llama para hacer esto es &lt;strong&gt;‘[[’&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sapply(myList, FUN = &amp;#39;[[&amp;#39;, 1)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  a  b  c  d  e 
+## 73  4 46 80 79&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;tapply&lt;/h1&gt;
+&lt;p&gt;La función &lt;strong&gt;tapply()&lt;/strong&gt; permite aplicar una función tomando como elemento para iterar una variable existente, es decir realiza una operación (parámetro 3) respecto a un vector (parámetro 1) agrupada por los factores que se indiquen como argumento (parámetro 2).&lt;/p&gt;
+&lt;p&gt;Para este ejemplo se usa la base de datos &lt;em&gt;iris&lt;/em&gt; para obtener fácilmente un resumen de las mediciones de Sepal.Length para cada Species con la función &lt;strong&gt;tapply()&lt;/strong&gt; y la función &lt;strong&gt;summary()&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(&amp;quot;iris&amp;quot;)
+tapply(iris$Sepal.Length, iris$Species, summary)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## $setosa
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##   4.300   4.800   5.000   5.006   5.200   5.800 
+## 
+## $versicolor
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##   4.900   5.600   5.900   5.936   6.300   7.000 
+## 
+## $virginica
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##   4.900   6.225   6.500   6.588   6.900   7.900&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;mapply&lt;/h1&gt;
+&lt;p&gt;La función &lt;strong&gt;mapply()&lt;/strong&gt; significa apply “multivariante”, que aplica una función a múltiples listas o múltiples argumentos vectoriales.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, para crear una matriz 4x4 se puede crear normalmente con la función &lt;strong&gt;matrix()&lt;/strong&gt; y la función &lt;strong&gt;rep()&lt;/strong&gt; repetidamente:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;matrix(c(rep(1, 4), rep(2, 4), rep(3, 4), rep(4, 4)),4,4)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      [,1] [,2] [,3] [,4]
+## [1,]    1    2    3    4
+## [2,]    1    2    3    4
+## [3,]    1    2    3    4
+## [4,]    1    2    3    4&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ahora usando la función &lt;strong&gt;mapply()&lt;/strong&gt; y la función &lt;strong&gt;rep()&lt;/strong&gt; repetidamente:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mapply(rep, 1:4, 4)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      [,1] [,2] [,3] [,4]
+## [1,]    1    2    3    4
+## [2,]    1    2    3    4
+## [3,]    1    2    3    4
+## [4,]    1    2    3    4&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Si tenemos tres matrices &lt;strong&gt;x&lt;/strong&gt;, &lt;strong&gt;y&lt;/strong&gt; y &lt;strong&gt;z&lt;/strong&gt; para obtener la suma entre cada uno de los elementos de las matrices se puede usar la función &lt;strong&gt;mapply()&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;x &amp;lt;- matrix(1:9,3,3)
+y &amp;lt;- matrix(11:19,3,3)
+z &amp;lt;- matrix(21:29,3,3)
+mapply(sum, x, y, z)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 33 36 39 42 45 48 51 54 57&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;vapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;vapply&lt;/h1&gt;
+&lt;p&gt;Devuelve un vector con la longitud que tiene cada una de las listas introducidas como parámetro.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(x &amp;lt;- list(A = 1, B = 1:3, C = 1:7))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## $A
+## [1] 1
+## 
+## $B
+## [1] 1 2 3
+## 
+## $C
+## [1] 1 2 3 4 5 6 7&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;vapply(x, FUN = length, FUN.VALUE = 0L)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## A B C 
+## 1 3 7&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;rapply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;rapply&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;rapply()&lt;/strong&gt; se utiliza cuando queremos aplicar una función a cada elemento de un objeto con estructura de lista anidada (una lista dentro de una lista), de manera recursiva &lt;span class=&#34;citation&#34;&gt;(Máxima Formación n.d.)&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;funciones-relacionadas-con-apply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Funciones relacionadas con apply()&lt;/h1&gt;
+&lt;p&gt;En ocasiones se utilizan funciones estructuradas de forma similar junto con el elemento de la familia &lt;strong&gt;apply()&lt;/strong&gt;, a continuación se presenta una visión general de algunas de ellas.&lt;/p&gt;
+&lt;div id=&#34;sweep&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;sweep&lt;/h2&gt;
+&lt;p&gt;La función &lt;strong&gt;sweep()&lt;/strong&gt; se utiliza cuando se desea duplicar diferentes acciones sobre los elementos &lt;strong&gt;MARGIN&lt;/strong&gt; que se han elegido (limitándose aquí al caso de la matriz).&lt;/p&gt;
+&lt;p&gt;Supongamos que tiene un conjunto de datos. Primero se encuentran las medias y la dispersión o desviación estándar por columna con la ayuda de la función &lt;code&gt;apply()&lt;/code&gt;. Luego se centra los todos los datos con respecto a su centro (cada dato original menos la media). Finamente los datos centrados se utilizará para normalizar con respecto a su desviación estándar (dato original menos la media dividido para la desviación estándar del dato original) &lt;span class=&#34;citation&#34;&gt;(Fanara 2016)&lt;/span&gt;:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data &amp;lt;- matrix(c(seq(4, 7), seq(8, 11), seq(12, 15)), 4, 3)
+# Calcular la media por columna con `apply()`
+data.media &amp;lt;- apply(data, 2, mean)
+# Encuentrar la desviación estándar con `apply()`
+data.sd &amp;lt;- apply(data, 2, sd)
+# Centrar los datos
+(data.centrado &amp;lt;- sweep(data, 2, data.media, &amp;quot;-&amp;quot;))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      [,1] [,2] [,3]
+## [1,] -1.5 -1.5 -1.5
+## [2,] -0.5 -0.5 -0.5
+## [3,]  0.5  0.5  0.5
+## [4,]  1.5  1.5  1.5&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Normalizar los datos
+(data.norm &amp;lt;- sweep(data.centrado, 2, data.sd, &amp;quot;/&amp;quot;))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##            [,1]       [,2]       [,3]
+## [1,] -1.1618950 -1.1618950 -1.1618950
+## [2,] -0.3872983 -0.3872983 -0.3872983
+## [3,]  0.3872983  0.3872983  0.3872983
+## [4,]  1.1618950  1.1618950  1.1618950&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Esta función &lt;strong&gt;sweep()&lt;/strong&gt; espera los siguientes parámetros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Un &lt;strong&gt;x&lt;/strong&gt;: una matriz de entrada;&lt;/li&gt;
+&lt;li&gt;Un &lt;strong&gt;MARGIN&lt;/strong&gt;, &lt;strong&gt;2&lt;/strong&gt; para indicar las columnas;&lt;/li&gt;
+&lt;li&gt;Un &lt;strong&gt;STATS&lt;/strong&gt;, resumen de estadísticas (aquí &lt;strong&gt;mean&lt;/strong&gt;); y&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FUN&lt;/strong&gt;, una función a aplicar. En este caso se usa el operador aritmético &lt;strong&gt;“-”&lt;/strong&gt; para la resta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;aggregate&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;aggregate&lt;/h2&gt;
+&lt;p&gt;Esta función está contenida en el paquete base &lt;strong&gt;stats&lt;/strong&gt; y la utilizas así: &lt;strong&gt;aggregate(x, by, FUN, …, simplify = TRUE)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Funciona de manera similar a la función &lt;strong&gt;apply()&lt;/strong&gt;: se especifica el objeto, la función y dice si desea simplificar, al igual que con la función &lt;strong&gt;sapply()&lt;/strong&gt;. La diferencia clave es el uso de la cláusula &lt;strong&gt;&lt;em&gt;by&lt;/em&gt;&lt;/strong&gt;, que establece la variable o el campo de marco de datos mediante el cual queremos realizar la agregación.&lt;/p&gt;
+&lt;p&gt;Usando la base de datos &lt;em&gt;iris&lt;/em&gt; se obtiene el promedio de las mediciones de Sepal.Length para cada Species:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(&amp;quot;iris&amp;quot;)
+aggregate(iris$Sepal.Length, by = iris[&amp;quot;Species&amp;quot;], FUN = mean)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##      Species     x
+## 1     setosa 5.006
+## 2 versicolor 5.936
+## 3  virginica 6.588&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;by&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;by&lt;/h2&gt;
+&lt;p&gt;Similar a la función &lt;strong&gt;tapply()&lt;/strong&gt;, pero &lt;strong&gt;by()&lt;/strong&gt; funciona también cuando el tamaño de los 2 primeros argumentos son distintos, por ejemplo:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(&amp;quot;iris&amp;quot;)
+by(iris[1:4], iris$Species, summary)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## iris$Species: setosa
+##   Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   
+##  Min.   :4.300   Min.   :2.300   Min.   :1.000   Min.   :0.100  
+##  1st Qu.:4.800   1st Qu.:3.200   1st Qu.:1.400   1st Qu.:0.200  
+##  Median :5.000   Median :3.400   Median :1.500   Median :0.200  
+##  Mean   :5.006   Mean   :3.428   Mean   :1.462   Mean   :0.246  
+##  3rd Qu.:5.200   3rd Qu.:3.675   3rd Qu.:1.575   3rd Qu.:0.300  
+##  Max.   :5.800   Max.   :4.400   Max.   :1.900   Max.   :0.600  
+## -------------------------------------------------------- 
+## iris$Species: versicolor
+##   Sepal.Length    Sepal.Width     Petal.Length   Petal.Width   
+##  Min.   :4.900   Min.   :2.000   Min.   :3.00   Min.   :1.000  
+##  1st Qu.:5.600   1st Qu.:2.525   1st Qu.:4.00   1st Qu.:1.200  
+##  Median :5.900   Median :2.800   Median :4.35   Median :1.300  
+##  Mean   :5.936   Mean   :2.770   Mean   :4.26   Mean   :1.326  
+##  3rd Qu.:6.300   3rd Qu.:3.000   3rd Qu.:4.60   3rd Qu.:1.500  
+##  Max.   :7.000   Max.   :3.400   Max.   :5.10   Max.   :1.800  
+## -------------------------------------------------------- 
+## iris$Species: virginica
+##   Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   
+##  Min.   :4.900   Min.   :2.200   Min.   :4.500   Min.   :1.400  
+##  1st Qu.:6.225   1st Qu.:2.800   1st Qu.:5.100   1st Qu.:1.800  
+##  Median :6.500   Median :3.000   Median :5.550   Median :2.000  
+##  Mean   :6.588   Mean   :2.974   Mean   :5.552   Mean   :2.026  
+##  3rd Qu.:6.900   3rd Qu.:3.175   3rd Qu.:5.875   3rd Qu.:2.300  
+##  Max.   :7.900   Max.   :3.800   Max.   :6.900   Max.   :2.500&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-funciones&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Otras funciones&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ddplyr() del paquete &lt;a href=&#34;https://cran.r-project.org/web/packages/plyr/index.html&#34;&gt;{plyr}&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;summaryBy() del paquete &lt;a href=&#34;https://cran.r-project.org/web/packages/doBy/index.html&#34;&gt;{doBy}&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;summarize() en el paquete &lt;a href=&#34;https://cran.r-project.org/web/packages/Hmisc/index.html&#34;&gt;{Hmisc}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;Bibliografía&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-Fanara2016&#34;&gt;
+&lt;p&gt;Fanara, Carlo. 2016. “R tutorial on the Apply family of functions (article) - DataCamp.” &lt;a href=&#34;https://www.datacamp.com/community/tutorials/r-tutorial-apply-family&#34;&gt;https://www.datacamp.com/community/tutorials/r-tutorial-apply-family&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-MaximaFormacion&#34;&gt;
+&lt;p&gt;Máxima Formación, MF. n.d. “Cómo calcular resúmenes estadísticos por grupo rápidamente.” Accessed January 6, 2019. &lt;a href=&#34;https://www.maximaformacion.es/blog-dat/como-calcular-resumenes-por-grupo-rapidamente/&#34;&gt;https://www.maximaformacion.es/blog-dat/como-calcular-resumenes-por-grupo-rapidamente/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a R Markdown</title>
+      <link>/talk/2019-01-19-intrormarkdown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-01-19-intrormarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;descripcion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Descripción:&lt;/h2&gt;
+&lt;div id=&#34;vision-general&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Visión general&lt;/h3&gt;
+&lt;p&gt;R Markdown proporciona un marco de autoría para la ciencia de datos. Puedes usar un solo archivo R Markdown para ambos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;guardar y ejecutar código&lt;/li&gt;
+&lt;li&gt;generar informes de alta calidad que se pueden compartir con una audiencia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los documentos R Markdown son completamente reproducibles y admiten docenas de formatos de salida estáticos y dinámicos &lt;a href=&#34;/slides/RMarkdown-Introduction.html#1/&#34;&gt;(ver slides)&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;contacto&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Contacto:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correo:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:guamandseduardo@gmail.com&#34; class=&#34;email&#34;&gt;guamandseduardo@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Twitter:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/guamandseduardo&#34;&gt;guamandseduardo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Factores que influyen en la producción del plátano en el Ecuador, 2014-2016</title>
+      <link>/publication/2019-01-02-paper/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/2019-01-02-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Eduardo Guamán - Curriculum Vitae&lt;/title&gt;
+
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34;/&gt;
+&lt;meta name=&#34;description&#34; content=&#34;The Curriculum Vitae of Eduardo Guamán.&#34;/&gt;
+&lt;meta charset=&#34;UTF-8&#34;&gt; 
+
+&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../css/cv.css&#34;&gt;
+&lt;link href=&#39;http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&gt;
+
+&lt;!--[if lt IE 9]&gt;
+&lt;script src=&#34;//html5shiv.googlecode.com/svn/trunk/html5.js&#34;&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body id=&#34;top&#34;&gt;
+&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34;&gt;
+	&lt;div class=&#34;mainDetails&#34;&gt;
+		&lt;div id=&#34;headshot&#34; class=&#34;quickFade&#34;&gt;
+			&lt;img src=&#34;Eduardo.jpg&#34; alt=&#34;Eduardo Guamán&#34; /&gt;
+		&lt;/div&gt;
+		
+		&lt;div id=&#34;name&#34;&gt;
+			&lt;h1 class=&#34;quickFade delayTwo&#34;&gt;Eduardo Guamán&lt;/h1&gt;
+		&lt;/div&gt;
+		
+		&lt;div id=&#34;contactDetails&#34; class=&#34;quickFade delayFour&#34;&gt;
+			&lt;ul&gt;
+			  &lt;li&gt;a: Av. General Enríquez y Colombia (Sangolquí-Ec)&lt;/li&gt;
+				&lt;li&gt;e: &lt;a href=&#34;mailto:guamandseduardo@gmail.com&#34; target=&#34;_blank&#34;&gt;guamandseduardo@gmail.com&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;w: &lt;a href=&#34;https://guamandseduardo.rbind.io/&#34;&gt;https://guamandseduardo.rbind.io&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;m: +593 968 7225 25&lt;/li&gt;
+				&lt;!--&lt;li&gt;m: 096 872 2525&lt;/li&gt;--&gt;
+				&lt;!--comentario--&gt;
+				&lt;!--&lt;li&gt;C.I.: 060449955-8&lt;/li&gt;--&gt;
+				&lt;!--comentario--&gt;
+				&lt;!--&lt;li&gt;Ciudad/Provincia/País: Rumiñahui/Pichincha/Ecuador&lt;/li&gt;--&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayFive&#34;&gt;
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Instrucción Formal&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+			  &lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Ing. en Estadística Infotmática&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;Tercer Nivel&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;&lt;a href=&#34;https://www.espoch.edu.ec/&#34;&gt;Escuela Superior Politécnica de Chimborazo (ESPOCH)&lt;/a&gt;&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				
+				&lt;article&gt;
+				  &lt;span class=&#34;contentHeader&#34;&gt;Bachiller en Ciencias Especialización: Físico Matemáticas&lt;/span&gt;
+				  &lt;span class=&#34;contentDate&#34;&gt;Bachillerato&lt;/span&gt;
+				  &lt;p class=&#34;subDetails&#34;&gt;Unidad Educativa “Juan Francisco Yerovi”&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Educación Básica&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;Primaria&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Unidad Educativa “La Pacífica”&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Experiencia Laboral&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Centro de Investigación de Energías &lt;br /&gt; Alternativas y Ambiente (CEAA)&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;Marzo 2017 - Septiembre 2017&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Área: Termo solar&lt;/p&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Puesto: Analista de datos meteorológicos&lt;/p&gt;
+					&lt;i&gt;Descripción de actividades:&lt;/i&gt;
+					&lt;ul&gt;
+						&lt;li&gt;Limpieza de datos atípicos&lt;/li&gt;
+						&lt;li&gt;Imputación múltiple de datos faltantes&lt;/li&gt;
+						&lt;li&gt;Análisis descriptivo univariado y multivariado&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		
+		
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Idioma&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+			  &lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Inglés&lt;/span&gt;
+					&lt;style&gt;
+					table, td {
+					  text-align: left;
+					  
+					}
+					&lt;/style&gt;
+					&lt;table style=&#34;width:100%&#34;&gt;
+					  &lt;tr&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel hablado&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel escrito&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel escuchado&lt;/b&gt;&lt;/th&gt;
+					    &lt;/tr&gt;
+					    &lt;tr&gt;
+					      &lt;td&gt;Intermedio&lt;/td&gt;
+					      &lt;td&gt;Intermedio&lt;/td&gt;
+					      &lt;td&gt;Básico&lt;/td&gt;
+					      &lt;/tr&gt;
+					 &lt;/table&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				
+				&lt;article&gt;
+				  &lt;span class=&#34;contentHeader&#34;&gt;Kichwa&lt;/span&gt;
+				  &lt;table style=&#34;width:100%&#34;&gt;
+					  &lt;tr&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel hablado&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel escrito&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Nivel escuchado&lt;/b&gt;&lt;/th&gt;
+					    &lt;/tr&gt;
+					    &lt;tr&gt;
+					      &lt;td&gt;Básico&lt;/td&gt;
+					      &lt;td&gt;Básico&lt;/td&gt;
+					      &lt;td&gt;Básico&lt;/td&gt;
+					      &lt;/tr&gt;
+					 &lt;/table&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		
+		
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Capacitación&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+			  &lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Seminario Taller: Redacción Científica con R-Sweave y Latex&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Institución: Escuela de Física y Matemática, Facultad de Ciencias, ESPOCH&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo: Seminario-Taller&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Área de estudios: Investigación científica/Paper&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo de certificado: Aprobación&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha desde: 20 de noviembre del 2017&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha hasta: 15 de diciembre del 2017&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de días: 20&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de horas totales: 40&lt;/li&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				
+				&lt;article&gt;
+				  &lt;span class=&#34;contentHeader&#34;&gt;Congreso Internacional: Estadística y descubrimiento científico basado en el uso intensivo de datos&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Institución: Grupo de Investigación de Datos: ESPOCH&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo: Congreso&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Área de estudios: Análisis de Datos&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo de certificado: Aprobación&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha desde: 16 de noviembre del 2015&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha hasta: 20 de noviembre del 2015&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de días: 5&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de horas totales: 40&lt;/li&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		
+		&lt;!-- comentario --&gt;
+		&lt;!--
+				&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Cursos&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+			  &lt;article&gt;
+			    &lt;span class=&#34;contentHeader&#34;&gt;Ciencia de Datos con R&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Instructor: Rubén Sánchez Sancho&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo de certificado: Finalización&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha de finalización: 9 de diciembre de 2018&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de horas totales: 4&lt;/li&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				
+				&lt;article&gt;
+				  &lt;span class=&#34;contentHeader&#34;&gt;Curso completo de R para Data Science con Tydeverse&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Instructor: Juan Gabriel Gomila Salas&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Tipo de certificado: Finalización&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Fecha de finalización: 5 de diciembre de 2018&lt;/li&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;Número de horas totales: 35&lt;/li&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		--&gt;
+		&lt;!-- comentario --&gt;
+		
+		
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Publicaciones&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;h2&gt;Publicado&lt;/h2&gt;
+				&lt;ol reversed&gt;
+					&lt;li ALIGN=&#34;justify&#34;&gt;&lt;em&gt;Guamán Eduardo&lt;/em&gt;, Escudero Isabel. 2018. Factores que influyen en la producción del plátano en el Ecuador, 2014-2016. DOI: 10.33262/cienciadigital.v2i4.1..193.&lt;/li&gt;
+						&lt;ul&gt;
+							&lt;li&gt;&lt;em&gt;Editorial:&lt;/em&gt;&lt;br&gt;
+								&lt;a href=&#34;http://cienciadigital.org/revistacienciadigital2/index.php/CienciaDigital/article/view/193&#34;&gt;Ciencia Digital&lt;/a&gt; publicada en el año 2018.
+							&lt;/li&gt;
+						&lt;/ul&gt;
+				&lt;/ol&gt;
+				&lt;br /&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		
+		&lt;!-- comentario --&gt;
+		&lt;!--
+		&lt;section&gt;
+			&lt;article&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Logros personales&lt;/h1&gt;
+				&lt;/div&gt;
+				
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;style&gt;
+					table, td {
+					  text-align: left;
+					  
+					}
+					&lt;/style&gt;
+					&lt;table style=&#34;width:100%&#34;&gt;
+					  &lt;tr&gt;
+					    &lt;th&gt;&lt;b&gt;Tipo de Logro&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Descripción&lt;/b&gt;&lt;/th&gt;
+					    &lt;/tr&gt;
+					    &lt;tr&gt;
+					      &lt;td&gt;Académico&lt;/td&gt;
+					      &lt;td&gt;Mejor graduado (secundaria - abanderado)&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Académico&lt;/td&gt;
+					      &lt;td&gt;Mejor graduado (tercer nivel)&lt;/td&gt;
+					     &lt;/tr&gt;
+					 &lt;/table&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;br /&gt;
+		
+		
+		
+			&lt;section&gt;
+			&lt;article&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Referencias personales&lt;/h1&gt;
+				&lt;/div&gt;
+				
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;style&gt;
+					table, td {
+					  text-align: left;
+					  
+					}
+					&lt;/style&gt;
+					&lt;table style=&#34;width:100%&#34;&gt;
+					  &lt;tr&gt;
+					    &lt;th&gt;&lt;b&gt;Nombre&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Teléfono&lt;/b&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;b&gt;Correo electrónico&lt;/b&gt;&lt;/th&gt;
+					    &lt;/tr&gt;
+					    &lt;tr&gt;
+					      &lt;td&gt;Alexandra Paucar&lt;/td&gt;
+					      &lt;td&gt;0998902560&lt;/td&gt;
+					      &lt;td&gt;rocio.alexandra.27@gmail.com&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Isabel Escudero&lt;/td&gt;
+					      &lt;td&gt;0984154231&lt;/td&gt;
+					      &lt;td&gt;amalia.escudero@espoch.edu.ec&lt;/td&gt;
+					     &lt;/tr&gt;
+					 &lt;/table&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;br /&gt;
+		--&gt;
+		&lt;!-- comentario --&gt;
+		
+		
+		&lt;section&gt;
+			&lt;article&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Información adicional que considere útil&lt;/h1&gt;
+				&lt;/div&gt;
+				
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;p class=&#34;subDetails&#34; ALIGN=&#34;justify&#34;&gt;Participación en los diferentes eventos científicos en el área de estadística con ponencias de posters y artículos científicos durante las jornadas académicas de la Escuela de Física y Matemática, ESPOCH. De los varios títulos, los siguientes son algunos de los poster y artículos científicos con certificación:&lt;/p&gt;
+					&lt;ul&gt;
+						&lt;li class=&#34;subDetails&#34; ALIGN=&#34;justify&#34;&gt;Pronóstico de radiación solar global de la estación meteorológica de la escuela superior politécnica de Chimborazo en los años 2007-2012 (poster).&lt;/li&gt;
+						&lt;li class=&#34;subDetails&#34; ALIGN=&#34;justify&#34;&gt;Detección de outliers e imputación de datos faltantes previo a la modelación temporal de velocidades de viento (Paper).&lt;/li&gt;
+						&lt;li class=&#34;subDetails&#34; ALIGN=&#34;justify&#34;&gt;Factores que influyen en la producción del plátano en el Ecuador, 2014-2016 (Paper publicada).&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;br /&gt;
+		
+		&lt;!-- comentario --&gt;
+		&lt;!--
+		&lt;section&gt;
+			&lt;article&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Acciones afirmativas&lt;/h1&gt;
+				&lt;/div&gt;
+				
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;style&gt;
+					table, td {
+					  text-align: left;
+					  
+					}
+					&lt;/style&gt;
+					&lt;table style=&#34;width:100%&#34;&gt;
+					  &lt;tr&gt;
+					    &lt;th&gt;&lt;/th&gt;
+					    &lt;th&gt;&lt;/th&gt;
+					    &lt;/tr&gt;
+					    &lt;tr&gt;
+					      &lt;td&gt;Autodeterminación étnica:&lt;/td&gt;
+					      &lt;td&gt;MESTIZO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Discapacidad:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Enfermedad catastrófica:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;A cargo de familiar con discapacidad:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;A cargo de familiar con enfermedad:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Migrante Ex-Servidor Público:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					     &lt;tr&gt;
+					      &lt;td&gt;Residente provincia de Galápagos:&lt;/td&gt;
+					      &lt;td&gt;NO&lt;/td&gt;
+					     &lt;/tr&gt;
+					 &lt;/table&gt;
+				&lt;/div&gt;
+			&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;br /&gt;
+		
+		
+		&lt;section&gt;
+			&lt;article&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Declaración&lt;/h1&gt;
+				&lt;/div&gt;
+				
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;p class=&#34;subDetails&#34; ALIGN=&#34;justify&#34;&gt;Declaro y me responsabilizo que toda la información contenida en este formulario es verídica. En caso de que se compruebe la falsedad de la información autorizo a la Institución tomar las acciones correspondientes.&lt;/p&gt;
+					
+				&lt;/div&gt;
+			&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+		--&gt;
+		&lt;!-- comentario --&gt;
+		
+		
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+var gaJsHost = ((&#34;https:&#34; == document.location.protocol) ? &#34;https://ssl.&#34; : &#34;http://www.&#34;);
+document.write(unescape(&#34;%3Cscript src=&#39;&#34; + gaJsHost + &#34;google-analytics.com/ga.js&#39; type=&#39;text/javascript&#39;%3E%3C/script%3E&#34;));
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+var pageTracker = _gat._getTracker(&#34;UA-3753241-1&#34;);
+pageTracker._initData();
+pageTracker._trackPageview();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example-slides/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
