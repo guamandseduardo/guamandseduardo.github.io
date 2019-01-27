@@ -11,11 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Paquetes y funciones útiles para generar gráficos en R</title>
+      <link>/post/graficos-con-r/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/graficos-con-r/</guid>
+      <description>
+
+
+&lt;div id=&#34;paquetes-y-funciones-utiles-para-generar-graficos-en-r&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;/post/Graficos-con-R.html#1/&#34;&gt;(Paquetes y funciones útiles para generar gráficos en R)&lt;/a&gt;&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Servicio de Asesoría Estadística</title>
-      <link>/asesoria/</link>
+      <link>/asesoria-estadistica/asesoria/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/asesoria/</guid>
+      <guid>/asesoria-estadistica/asesoria/</guid>
       <description>
 
 

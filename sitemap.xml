@@ -4,7 +4,15 @@
     
     <url>
     
-      <loc>/asesoria/</loc>
+      <loc>/post/graficos-con-r/</loc>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/asesoria-estadistica/asesoria/</loc>
       <lastmod>2019-01-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -85,6 +93,15 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-11-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/asesoria-estadistica/</loc>
+      <lastmod>2019-01-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

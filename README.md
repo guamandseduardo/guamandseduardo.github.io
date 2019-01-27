@@ -1,1 +1,0 @@
-# guamandseduardo.github.io

@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Paquetes y funciones útiles para generar gráficos en R</title>
+      <link>/post/graficos-con-r/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/graficos-con-r/</guid>
+      <description>(Paquetes y funciones útiles para generar gráficos en R)</description>
+    </item>
+    
+    <item>
       <title>Los bucles de la familia apply</title>
       <link>/post/familia-apply/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
