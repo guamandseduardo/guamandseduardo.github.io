@@ -13,6 +13,22 @@
     
     
     <item>
+      <title>20 gráficos con ggplot2</title>
+      <link>/talk/plots-ggplot2/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/plots-ggplot2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; (arriba) para continuar con la lectura.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Descarga los datos &lt;a href=&#34;/files/titanic3.csv&#34;&gt;&lt;strong&gt;titanic3&lt;/strong&gt;&lt;/a&gt; para poder realizar el primer gráfico (Gráfico de pastel).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introducción a R Markdown</title>
       <link>/talk/2019-01-19-rmarkdown/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>

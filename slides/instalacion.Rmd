@@ -1,0 +1,30 @@
+---
+title: "Instalar {ggplot2}"
+author: "Eduardo Guamán"
+output: 
+  pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+## Texto
+
+ggplot2 es un sistema para crear gráficos de forma declarativa, basado en [The Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing-ebook-dp-B00HWUVHXK/dp/B00HWUVHXK/). Usted proporciona los datos, le dice a ggplot2 cómo mapear las variables en la estética, qué primitivas usar para gráficar, y el paquete se encarga de los detalles.
+
+## Instalación.
+
+```{r, eval=FALSE, echo=TRUE}
+# The easiest way to get ggplot2 is to install the whole tidyverse:
+install.packages("tidyverse")
+
+# Alternatively, install just ggplot2:
+install.packages("ggplot2")
+
+# Or the the development version from GitHub:
+# install.packages("devtools")
+devtools::install_github("tidyverse/ggplot2")
+```
+
+Fuente de gráficos: https://ggplot2.tidyverse.org/
